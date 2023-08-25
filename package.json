@@ -16,7 +16,8 @@
     "build:watch": "tsc -w",
     "prepublishOnly": "tsc",
     "lint": "eslint ./src --ext .ts",
-    "test": "jest"
+    "test": "jest",
+    "test:cov": "jest --coverage"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.22.10",
