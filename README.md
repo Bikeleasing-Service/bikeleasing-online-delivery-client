@@ -1,3 +1,3 @@
-![Publish Package to npmjs](https://github.com/Bikeleasing-Service/bikeleasing-online-delivery-client/actions/workflows/publish.yaml/badge.svg) [![Quality Gate Status](https://sonarqube.bikeleasing.de/api/project_badges/measure?project=Bikeleasing-Service_bikeleasing-online-delivery-client_AYosradKXCJ49HLslkO-&metric=alert_status&token=sqb_1c59729d2714b7e10aadc1a2e763e32b7388b67f)](https://sonarqube.bikeleasing.de/dashboard?id=Bikeleasing-Service_bikeleasing-online-delivery-client_AYosradKXCJ49HLslkO-)
+![Publish Package to npmjs](https://github.com/Bikeleasing-Service/bikeleasing-online-delivery-client/actions/workflows/publish.yaml/badge.svg) 
 
 # bikeleasing-online-delivery-client
