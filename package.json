@@ -1,6 +1,6 @@
 {
   "name": "bikeleasing-online-delivery-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bikeleasing Online Delivery Client",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
